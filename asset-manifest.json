@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pass_Generator/static/css/main.f029a054.css",
+    "main.js": "/Pass_Generator/static/js/main.7788ba39.js",
+    "index.html": "/Pass_Generator/index.html",
+    "main.f029a054.css.map": "/Pass_Generator/static/css/main.f029a054.css.map",
+    "main.7788ba39.js.map": "/Pass_Generator/static/js/main.7788ba39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f029a054.css",
+    "static/js/main.7788ba39.js"
+  ]
+}
